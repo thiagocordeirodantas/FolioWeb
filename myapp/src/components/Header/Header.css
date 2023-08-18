@@ -2,9 +2,10 @@
     display: inline-flex;
     align-items: flex-start;
     gap: 32px;
+    margin-left: 50px;
 }
 
-.lista-link-item,.lista-item {
+.lista-link-item, .lista-item {
     text-decoration: none;
     color: #594F43;
     font-family: Work Sans;
@@ -13,4 +14,10 @@
     font-weight: 600;
     line-height: 150%; /* 30px */
     list-style-type: none;
+}
+
+
+.lista-link-item:hover {
+    color: #594F43;
+    text-decoration: underline;
 }
