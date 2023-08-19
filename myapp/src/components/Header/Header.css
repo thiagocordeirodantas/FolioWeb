@@ -1,3 +1,7 @@
+header {
+    background: #FFEED9;
+}
+
 .lista-links {
     display: inline-flex;
     align-items: flex-start;

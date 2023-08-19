@@ -1,10 +1,10 @@
 body {
   margin: 0;
   -webkit-font-smoothing: antialiased;
-    width: 100vw;
-    background: #FFEED9;
+   
   -moz-osx-font-smoothing: grayscale;
   color: #FFF;
+  background: rgba(255, 221, 191, 0.50);
 
 }
 
