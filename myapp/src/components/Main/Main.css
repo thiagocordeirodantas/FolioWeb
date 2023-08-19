@@ -38,7 +38,7 @@ main {
 }
 
 
-.titulo-card-1 {
+.titulo-card {
     color: #403930;
     font-family: Work Sans;
     font-size: 32px;
@@ -47,7 +47,7 @@ main {
     line-height: 150%; /* 48px */
 }
 
-.texto-card-1 {
+.texto-card {
     color: #594F43;
     font-family: Work Sans;
     font-size: 24px;
@@ -57,7 +57,7 @@ main {
     width: 404px;
 }
 
-.link-card-1 {
+.link-card {
     color: #4E5E80;
     font-family: Work Sans;
     font-size: 24px;
@@ -67,7 +67,7 @@ main {
     text-decoration: none;
 }
 
-.link-card-1:hover {
+.link-card:hover {
     text-decoration: underline;
     color: #403930;
 }
